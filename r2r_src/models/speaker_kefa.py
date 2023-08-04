@@ -15,9 +15,6 @@ from models.pano_gcn import pano_att_gcn_v5
 from tslearn.metrics import dtw_path_from_metric
 
 
-# based on final2
-# relation knowledge on query, mean detection on key
-
 
 class Speaker():
     env_actions = {
