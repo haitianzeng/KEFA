@@ -289,17 +289,6 @@ class Spice_action_v1:
             pr, re, f, fn, fp, tp = calculate_action_metric(self.tok, self.all_directional,
                                                             self.all_directional_type, hypo, ref)
 
-            # TODO: fix
-            # item['scores'].append({
-            #     "pr": pr,
-            #     "re": re,
-            #     "f": f,
-            #     "fn": fn,
-            #     "numImages": 1,
-            #     "fp": fp,
-            #     "tp": tp
-            # })
-
             item['scores']['All']['fn'] += fn
             item['scores']['All']['fp'] += fp
             item['scores']['All']['tp'] += tp
