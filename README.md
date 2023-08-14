@@ -67,6 +67,6 @@ bash ./run/speaker_kefa.bash [GPU_id]
 *******************************************************************
 
 # Acknowledgement
-Our code is based on the following repository. We thank the authors for releasing their codes.
+Our code is based on the following repository. We thank the authors for releasing their codes. 
 
 - [R2R-EnvDrop](https://github.com/airsplay/R2R-EnvDrop)
