@@ -52,20 +52,6 @@ bash ./run/speaker_kefa.bash [GPU_id]
 
 *******************************************************************
 
-# Citation
-
-```
-@inproceedings{MHR_NET,
-  author    = {Haitian Zeng and
-               Xiaohan Wang and
-               Wenguan Wang and
-               Yi Yang},
-  title     = {Kefa: A Knowledge Enhanced and Fine-grained Aligned Speaker for Navigation Instruction Generation}
-}
-```
-
-*******************************************************************
-
 # Acknowledgement
 Our code is based on the following repository. We thank the authors for releasing their codes. 
 
